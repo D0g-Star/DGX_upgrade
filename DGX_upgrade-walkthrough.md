@@ -123,9 +123,8 @@ bash /usr/bin/nvidia-post-release-upgrade
 reboot
 ```
 ---
-## Step 4: Preparing  fo Upgrade the Software.
+## Step 4: Preparation for Upgrading to Version 6.
 
-### 4.0 Preparing  fo Upgrade the Software.
 ### 4.1 Connect to the DGX System Console.
 Connect to the console of the DGX system using a direct connection or a remote connection through the BMC.
 
