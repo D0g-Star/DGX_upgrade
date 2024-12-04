@@ -38,11 +38,7 @@ Note:
 ```
 sudo apt install -y nvidia-release-upgrade
 ```
-### 2.4 Issue the following only if upgrading from DGX OS 4.99.
-```
-sudo apt install -y nvidia-fabricmanager-450/bionic-updates
---allow-downgrades
-```
+
 
 ## Step 3: Performing the Release Upgrade to 5.XX: 
 
